@@ -1,3 +1,7 @@
+This repo is only for hosting the tokie app's installation file.
+
+If you want to know more about tokie, go to https://tokie.is
+
 Copyright © 2025 Tokie.
 
 All Rights Reserved.
